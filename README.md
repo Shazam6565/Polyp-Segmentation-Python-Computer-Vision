@@ -1,25 +1,25 @@
 # Polyp Segmentation using Unet++
 
-🔬 **Explore Medical Image Segmentation with Deep Learning**
+**Explore Medical Image Segmentation with Deep Learning**
 
 In healthcare and medical science, the fusion of artificial intelligence and deep learning is revolutionizing diagnostics. My project focuses on the precise segmentation of polyps from colonoscopy images—a vital tool for medical practitioners.
 
-## 📁 Data
+## Data
 
 The use of the CVC-Clinic database, containing frames from colonoscopy videos. The dataset includes polyp frames and corresponding ground truth images in both PNG and TIFF formats.
 
-## 🎯 Aim
+## Aim
 
 I aimed to develop a robust polyp segmentation model using deep learning techniques.
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Language**: Python
 - **Deep Learning**: PyTorch
 - **Computer Vision**: OpenCV
 - **Libraries**: Scikit-learn, Pandas, NumPy, Albumentations, and more.
 
-## 🚀 Approach
+## Approach
 
 1. **Data Insight**: Understand the dataset.
 2. **Evaluation Metrics**: Grasp the evaluation criteria.
@@ -31,7 +31,7 @@ I aimed to develop a robust polyp segmentation model using deep learning techniq
 8. **Model Training**: Train the model (GPU recommended).
 9. **Model Prediction**: Understand the modular code structure.
 
-## 📂 Project Structure
+## Project Structure
 
 1. **input**: Contains data (PNG and TIFF folders).
 2. **src**: The heart of the project with modular code, including ML pipelines, engine, and config.
@@ -39,7 +39,7 @@ I aimed to develop a robust polyp segmentation model using deep learning techniq
 4. **lib**: Reference materials (original iPython notebook).
 5. **requirements.txt**: Lists all dependencies.
 
-## 🎓 Takeaways
+## Takeaways
 
 - Polyp Segmentation Insights
 - IOU Metric Understanding
@@ -58,10 +58,10 @@ I aimed to develop a robust polyp segmentation model using deep learning techniq
 For questions, collaborations, or further information, feel free to contact me:
 
 - **Project Reference**: Project Pro
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vidhi-waghela-434663198/)
-- **Email**: [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shauryatiwari)
+- **Email**: [vaasutiwari@gmail.com](mailto:vaasutiwari@gmail.com)
 
-## 🚀 Getting Started
+## Getting Started
 
 ```python
 # Clone the repository
