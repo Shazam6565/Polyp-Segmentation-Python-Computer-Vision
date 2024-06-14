@@ -2,7 +2,7 @@
 
 **Explore Medical Image Segmentation with Deep Learning**
 
-In healthcare and medical science, the fusion of artificial intelligence and deep learning is revolutionizing diagnostics. My project focuses on the precise segmentation of polyps from colonoscopy images—a vital tool for medical practitioners.
+Artificial intelligence and deep learning are revolutionizing diagnostics in healthcare and medical science. My project is dedicated to the accurate identification of polyps in colonoscopy images, offering an essential tool for medical professionals.
 
 ## Data
 
